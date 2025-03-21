@@ -1,2 +1,2 @@
 # web-code
-This is website code
+This is website code.
